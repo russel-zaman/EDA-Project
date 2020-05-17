@@ -1,6 +1,6 @@
 ﻿##### ******************** EDA SUMMER PROJECT***************************
-##### ******************** Submitted By:     ***************************
-##    *******Anik Paul Mishu (386032) & Md Ahasan Bin Bayies (390707)
+##### ******************** Submitted By:     ****************************
+##    ******************* MD KAZI EBDUZZAMAN ****************************
 
 ## Project Name : Implementing a Netlist Equivalence Checker using SAT
 ## ## Usage : To check the Functional Equivalency of the Two different configurationed Digital Circuits
